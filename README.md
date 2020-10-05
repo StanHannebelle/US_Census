@@ -1,7 +1,7 @@
 # US_Income
 
 The problem here is to solve the binary classification problem of the US Adult Census Income Dataset.
-The objective is the predict if someone earns more or less than 50.000 USD per year.
+The objective is to predict if someone earns more or less than 50.000 USD per year.
 
 ## Setting Up the environment
 
